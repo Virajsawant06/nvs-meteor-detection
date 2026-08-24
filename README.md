@@ -22,10 +22,10 @@ This pipeline converts raw RGB meteor videos into synthetic event camera data (v
 
 **Source:** [Allsky7 Meteor Dataset on Kaggle](https://www.kaggle.com/datasets/virajsaws/meteor-dataset-allsky7/data)
 
-- **Content:** 100+ allsky meteor videos from Allsky7.net
+- **Content:** 24 allsky meteor videos from Allsky7.net
 - **Resolution:** 1920×1080 at 25fps
 - **Format:** MP4 files with clear meteor trails
-- **Size:** ~2GB total
+- **Size:** ~171MB total
 
 **Example files:**
 - `2026_05_15_01_29_01_000_010091_trim300_wm.mp4` (10.96s, meteor visible)
